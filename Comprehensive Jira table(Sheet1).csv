@@ -1,0 +1,28 @@
+Epic,Task,Sub-task,Status,Priority,Start Date,Due Date,Description,Notes
+Data Preparation,Collect dataset from Kaggle,–,To Do,High,9/22/2025,9/30/2025,"Search & download a suitable dataset (e.g., sales, e-commerce)",Use Kaggle e-commerce dataset
+Data Preparation,Clean dataset with Python Pandas,Handle missing values,To Do,High,9/22/2025,9/30/2025,Fill or remove missing values in dataset columns,Python Jupyter Notebook
+Data Preparation,Clean dataset with Python Pandas,Remove duplicates,To Do,High,9/22/2025,9/30/2025,Identify and drop duplicate rows,–
+Data Preparation,Clean dataset with Python Pandas,Fix column data types,To Do,High,9/22/2025,9/30/2025,"Convert columns to correct types (numbers, dates, strings)",–
+Data Preparation,Save CSV for analysis,–,To Do,High,9/22/2025,9/30/2025,Export cleaned dataset as CSV for next steps,Save as cleaned_dataset.csv
+Analysis & Visualization,Exploratory Data Analysis (EDA),Summary statistics,To Do,High,9/23/2025,10/1/2025,"Compute mean, median, min, max, counts per column",Python / Matplotlib
+Analysis & Visualization,Exploratory Data Analysis (EDA),Basic charts,To Do,High,9/23/2025,10/1/2025,"Visualize trends with line, bar, pie charts",–
+Analysis & Visualization,Identify KPIs,–,To Do,High,9/23/2025,10/1/2025,"Determine key metrics for dashboard (sales, revenue, users)",–
+Analysis & Visualization,Prepare data for Power BI,Aggregate / pivot,To Do,High,9/23/2025,10/1/2025,"Reshape dataset for visualization, create pivot tables",–
+Analysis & Visualization,Document insights,–,To Do,Medium,9/24/2025,10/2/2025,Summarize key findings for README and presentation,–
+AI Insights,Define AI problem,–,To Do,High,9/25/2025,10/3/2025,"Decide prediction goal (sales, churn, or classification)",–
+AI Insights,Prepare data for AI,Feature selection / train-test split,To Do,High,9/25/2025,10/3/2025,"Select relevant features, split dataset into train/test",–
+AI Insights,Train ML model (PyTorch),–,To Do,High,9/26/2025,10/4/2025,Build regression/classification model using PyTorch,–
+AI Insights,Evaluate model,Accuracy / loss,To Do,High,9/27/2025,10/4/2025,Check model performance metrics,–
+AI Insights,Export AI predictions,–,To Do,High,9/27/2025,10/4/2025,Save predictions to CSV for dashboard integration,–
+AI Insights,Document AI process,"Steps, hyperparameters",To Do,Medium,9/27/2025,10/4/2025,"Record methodology, parameters, and results",For README documentation
+Backend & Deployment,Setup ASP.NET MVC project,–,To Do,High,9/28/2025,10/5/2025,"Create project skeleton, setup Visual Studio solution",–
+Backend & Deployment,Connect cleaned dataset,Backend logic,To Do,High,9/28/2025,10/5/2025,Load CSV into backend and test read operations,–
+Backend & Deployment,Integrate Power BI dashboard,Embed visuals,To Do,High,9/29/2025,10/6/2025,Embed Power BI charts into MVC app,–
+Backend & Deployment,Integrate AI predictions,Display in app,To Do,High,9/29/2025,10/6/2025,Show model predictions dynamically on dashboard,–
+Backend & Deployment,Deploy on AWS,EC2 / S3 setup,To Do,High,9/30/2025,10/7/2025,Host app on AWS EC2 or S3,AWS free tier recommended
+Backend & Deployment,Test deployed app,Check loading & functionality,To Do,High,10/1/2025,10/7/2025,"Verify all features, visuals, and AI outputs work",–
+Documentation & Showcase,Document workflow in README,–,To Do,Medium,10/2/2025,10/8/2025,"Update README with day-by-day progress, screenshots",–
+Documentation & Showcase,Save Jira screenshots,–,To Do,Medium,10/2/2025,10/8/2025,Capture all Epics/Tasks for proof,–
+Documentation & Showcase,Capture Power BI dashboards,–,To Do,Medium,10/2/2025,10/8/2025,Export images/screenshots of charts,–
+Documentation & Showcase,Capture AI outputs,–,To Do,Medium,10/2/2025,10/8/2025,Export model predictions and charts,–
+Documentation & Showcase,Create LinkedIn post / showcase,–,To Do,High,10/3/2025,10/8/2025,"Summarize project, include repo link + screenshots",–
